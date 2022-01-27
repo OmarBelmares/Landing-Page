@@ -1,0 +1,190 @@
+.primero{
+    display:flex;
+    background: #1f2937;
+    flex-direction: column;
+}
+.header{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.logo{
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+}
+.header-links{
+    display:flex;
+    font-size: 16px;
+    color: white;
+    
+}
+ul{
+    display: flex;
+    gap: 0px;
+    list-style-type: none;
+    margin: 0px;
+    padding: 0;
+    gap:24px;
+}
+.segundo{
+    display:flex;
+    justify-content: center;
+    gap:180px;
+}
+body{
+    margin: 0;
+}
+.texto h2{
+    color:white;
+    font-size: 48px;
+    font-size: bold;
+    margin:0px;
+}
+.texto{
+    display:flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+}
+.imagen{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.imagen img{
+    width: auto;
+    height: 400px;
+}
+p{
+    color: white;
+    font-size: 18px;
+}
+button{
+    background-color: #3882f6;
+    width:100px;
+    height:30px;
+    color: white;
+    border:0;
+    border-radius: 5px;
+    
+}
+.titulo_random h2{
+    font-size: 36px;
+    font-weight: bolder;
+    text-align: center;
+}
+.ilustraciones{
+    display:flex;
+    justify-content: space-around;
+    padding: 80px;
+   
+  
+}
+.uno{
+    width: 120px;
+    height: 120px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    border: 5px #3882f6;
+    border-style: solid;
+    border-radius: 20px;
+}
+.dos{
+    width: 120px;
+    height: 120px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    border: 5px #3882f6;
+    border-style: solid;
+    border-radius: 20px;
+}
+.tres{
+    width: 120px;
+    height: 120px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    border: 5px #3882f6;
+    border-style: solid;
+    border-radius: 20px;
+}
+.cuatro{
+    width: 120px;
+    height: 120px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    border: 5px #3882f6;
+    border-style: solid;
+    border-radius: 20px;
+}
+.cuatro p{
+    color: black;
+}
+img{
+    width: 300px;
+    height: auto;
+}
+.cuarto{
+    display: flex;
+    background-color: #e5e7eb;
+    justify-content: center;
+    align-items: center;
+    height: 350px;
+}
+.frase{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.lafrase{
+    width: 800px;
+    font-size: 36px;
+    font: ligh italic;
+    color: #1f2937;
+}
+.credito{
+    color: black;
+    text-align: end;
+    width: 800px;
+    font-size: 30px;
+    font: ligh italic;
+    margin-top: -20px;
+    font-weight: bold;
+}
+.llamada{
+    background-color: #3882f6;
+    display:flex;
+    height: 150px;
+    width: 80%;
+    justify-content: space-around;
+    align-items: center;
+}
+.quinto{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    color: rgba(255, 255, 255, 0.849);
+}
+span{
+    font-weight: bold;
+    color: white;
+}
+.registro{
+    border: white;
+    border-style: solid;
+    border-width: 2px;
+    font-size: 16px;
+}
+footer{
+    background-color: #1f2937;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
